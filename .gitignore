@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.csv
+__pycache__
+data/
+.jpg
+.ipynb_checkpoints
+app.py
+OCR.py
